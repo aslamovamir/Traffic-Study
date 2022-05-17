@@ -11,10 +11,8 @@ using System.Diagnostics;
 using System.IO;
 
 
-//
-// COP 4365 - Spring 2022
-//
-// Homework #4: Traffic Study
+
+
 //
 // Description: This program is designed to simulate the working system of a 4-way stoplight: North, South, East, and West. This
 //              utilizes the system library of System.Diagnostics to make use of a stopwatch, which allows the program to automatically
@@ -29,9 +27,6 @@ using System.IO;
 //
 //
 
-
-    //UPDATED!
-    //UPDATED!!
 
 namespace Smarter_Stoplight_Problem
 {
